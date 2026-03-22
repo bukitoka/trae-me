@@ -1,0 +1,6 @@
+id = "trae-me"
+name = "Trae Me"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kusuma"]
+description = "Trae Me regular/glass theme for Zed :D"
