@@ -7,15 +7,6 @@ This extension includes two themes:
 - `Trae Me` — the standard dark variant
 - `Trae Me Glass` — a blurred / translucent variant
 
-## Highlights
-
-- Trae-inspired palette with Zed-specific customization
-- Regular and glass variants
-- Balanced editor, panel, and terminal surfaces
-- Conventional git colors:
-  - green for added
-  - yellow for modified
-  - red for deleted
 
 ## Main Palette
 
@@ -33,19 +24,7 @@ The theme uses a compact dark palette built around these main colors:
 - `#f28772` — deleted / error
 - `#3a94bc` — blue accent used across interactive states
 
-## Installation
+## Screenshot
 
-### From the Zed extensions UI
-
-Search for `Trae Me` in the Zed extensions marketplace and install it.
-
-### Manual development install
-
-If you're working on the extension locally, place this folder in your Zed extensions development path and reload Zed.
-
-## Usage
-
-Open Zed and select one of the included themes:
-
-- `Trae Me`
-- `Trae Me Glass`
+<img width="1126" height="976" alt="trae-me-glass" src="https://github.com/user-attachments/assets/8dae569c-c3a5-4493-91c8-144b6488ad39" />
+<img width="1126" height="976" alt="trae-me" src="https://github.com/user-attachments/assets/30b5c58c-6601-43ce-b9c2-d4148ed79af4" />
